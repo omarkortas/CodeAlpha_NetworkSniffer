@@ -1,6 +1,6 @@
-# 🕵️ CodeAlpha — Basic Network Sniffer
+# 🕵️ Basic Network Sniffer
 
-> **Task 1** of the CodeAlpha Cyber Security Internship.  
+> **Task 1** of Cyber Security Internship.  
 > A Python-based network sniffer that captures live traffic, dissects each packet layer by layer, and produces a colored real-time output plus a final capture summary.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)
